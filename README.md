@@ -3,5 +3,5 @@
 
 1：AppPlus
 https://github.com/maoruibin/AppPlus  
-2:知乎日报
+2：知乎日报
 https://github.com/izzyleung/ZhihuDailyPurify
