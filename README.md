@@ -1,5 +1,7 @@
 # OpenSourceApps
 优秀资源网站  
+0：我的github博客  
+http://tmxdyf.github.io/  
 1：android-open-project  
 https://github.com/Trinea/android-open-project  
 2：一个定期翻译国外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目  
@@ -8,6 +10,8 @@ https://github.com/bboyfeiyu/android-tech-frontier
 http://androidweekly.net/  
 4：androidweekly(国内)  
 http://www.androidweekly.cn/  
+5：saulmm(个人博客)
+http://saulmm.github.io/
 
 
 
