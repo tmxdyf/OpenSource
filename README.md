@@ -4,8 +4,12 @@
 https://github.com/Trinea/android-open-project  
 2：一个定期翻译国外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目  
 https://github.com/bboyfeiyu/android-tech-frontier  
-3：androidweekly  
-http://androidweekly.net/
+3：androidweekly(国外)  
+http://androidweekly.net/  
+4：androidweekly(国内)  
+http://www.androidweekly.cn/  
+
+
 
 开源APP收集
 
