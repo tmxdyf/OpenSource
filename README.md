@@ -4,7 +4,8 @@
 https://github.com/Trinea/android-open-project  
 2：一个定期翻译国外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目  
 https://github.com/bboyfeiyu/android-tech-frontier  
-
+3：androidweekly  
+http://androidweekly.net/
 
 开源APP收集
 
@@ -30,5 +31,7 @@ https://github.com/psaravan/JamsMusicPlayer
 https://github.com/Teaonly/android-eye  
 11：avplayer  
 https://github.com/Jackarain/avplayer  
+13：kickmaterial  
+https://github.com/byoutline/kickmaterial
 
 
