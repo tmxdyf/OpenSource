@@ -40,6 +40,8 @@ https://github.com/Teaonly/android-eye
 11：avplayer  
 https://github.com/Jackarain/avplayer  
 13：kickmaterial  
-https://github.com/byoutline/kickmaterial
+https://github.com/byoutline/kickmaterial  
+14：豆芽  
+https://github.com/DreaminginCodeZH/Douya
 
 
