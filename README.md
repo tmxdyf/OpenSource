@@ -51,4 +51,24 @@ https://github.com/DreaminginCodeZH/Douya
    
    
 1：android-support-23.2-sample  
-https://github.com/liaohuqiu/android-support-23.2-sample
+https://github.com/liaohuqiu/android-support-23.2-sample  
+
+
+<b>框架收集</b>  
+
+一、联网框架
+1：android-async-http  
+https://github.com/loopj/android-async-http  
+2：http-request    
+https://github.com/kevinsawicki/http-request
+3：retrofit  
+https://github.com/square/retrofit  
+4：Netroid  
+https://github.com/vince-styling/Netroid  
+5：okhttp  
+https://github.com/square/okhttp
+6：volley  
+https://android.googlesource.com/platform/frameworks/volley
+
+
+
