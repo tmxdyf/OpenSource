@@ -44,7 +44,9 @@ https://github.com/Jackarain/avplayer
 13：kickmaterial  
 https://github.com/byoutline/kickmaterial  
 14：豆芽  
-https://github.com/DreaminginCodeZH/Douya  
+https://github.com/DreaminginCodeZH/Douya   
+15：开源中国Android客户端MVP架构Material Design设计风格版   
+http://git.oschina.net/handoop/FlowGeek
   
   
 <b>优秀Demo收集</b>  
@@ -56,7 +58,7 @@ https://github.com/liaohuqiu/android-support-23.2-sample
 
 <b>框架收集</b>  
 
-一、联网框架
+一、联网框架  
 1：android-async-http  
 https://github.com/loopj/android-async-http  
 2：http-request    
@@ -66,9 +68,30 @@ https://github.com/square/retrofit
 4：Netroid  
 https://github.com/vince-styling/Netroid  
 5：okhttp  
-https://github.com/square/okhttp
+https://github.com/square/okhttp  
 6：volley  
 https://android.googlesource.com/platform/frameworks/volley
+  
+二、图片加载框架  
+1：fresco  
+https://github.com/facebook/fresco  
+2：glide  
+https://github.com/bumptech/glide  
+3：picasso  
+http://square.github.io/picasso/  
+4：Android-Universal-Image-Loader  
+https://github.com/nostra13/Android-Universal-Image-Loader  
+
+三、响应式框架  
+1：RxJAVA  
+https://github.com/ReactiveX/RxJava  
+
+四、注解框架  
+1：dagger2  
+http://google.github.io/dagger/  
+
+
+
 
 
 
