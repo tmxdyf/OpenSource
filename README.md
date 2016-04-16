@@ -92,6 +92,10 @@ https://github.com/ReactiveX/RxJava
 1：dagger2  
 http://google.github.io/dagger/  
 
+五、缓存框架  
+1：https://github.com/yangfuhai/ASimpleCache  
+
+
 
 
 
