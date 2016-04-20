@@ -16,7 +16,7 @@ http://www.androidweekly.cn/
 http://saulmm.github.io/  
 6：google  
 https://github.com/google  
-7：googlesamples
+7：googlesamples  
 https://github.com/googlesamples  
 8：square  
 https://github.com/square  
