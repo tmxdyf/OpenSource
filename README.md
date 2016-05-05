@@ -55,7 +55,9 @@ https://github.com/DreaminginCodeZH/Douya
 15：开源中国Android客户端MVP架构Material Design设计风格版   
 http://git.oschina.net/handoop/FlowGeek  
 16：就看天气  
-https://github.com/xcc3641/SeeWeather
+https://github.com/xcc3641/SeeWeather    
+17：muzei  
+https://github.com/romannurik/muzei
   
   
 <b>优秀Demo收集</b>  
