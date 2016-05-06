@@ -12,7 +12,7 @@ https://github.com/bboyfeiyu/android-tech-frontier
 http://androidweekly.net/  
 4：androidweekly(国内)  
 http://www.androidweekly.cn/  
-5：saulmm(个人博客)
+5：saulmm(个人博客)  
 http://saulmm.github.io/  
 6：google  
 https://github.com/google  
