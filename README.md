@@ -102,6 +102,8 @@ https://github.com/nostra13/Android-Universal-Image-Loader
 三、响应式框架  
 1：RxJAVA  
 https://github.com/ReactiveX/RxJava  
+2：Agera  
+https://github.com/google/agera  
 
 四、注解框架  
 1：dagger2  
