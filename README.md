@@ -116,7 +116,9 @@ http://google.github.io/dagger/
 https://github.com/facebook/stetho  
 
 
-
+七、动画框架  
+1：rebound    
+https://github.com/facebook/rebound  
 
 
 
