@@ -130,13 +130,13 @@ https://github.com/facebook/rebound
 >Android官方布局
 
 >LinearLayout 线性布局
-FrameLayout 帧布局
-RelativeLayout 相对布局
-TableLayout 表格布局
-AbsoluteLayout 绝对布局(过时)
-GridLayout 网格布局
-CoordinatorLayout 协调布局
-PercentRelativeLayout 百分比相对布局
-PercentFrameLayout 百分比帧布局
-ConstraintLayout 约束布局
-FlexboxLayout 弹性盒子布局 https://github.com/google/flexbox-layout
+>FrameLayout 帧布局
+>RelativeLayout 相对布局
+>TableLayout 表格布局
+>AbsoluteLayout 绝对布局(过时)
+>GridLayout 网格布局
+>CoordinatorLayout 协调布局
+>PercentRelativeLayout 百分比相对布局
+>PercentFrameLayout 百分比帧布局
+>ConstraintLayout 约束布局
+>FlexboxLayout 弹性盒子布局 https://github.com/google/flexbox-layout
