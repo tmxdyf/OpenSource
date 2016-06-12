@@ -145,3 +145,9 @@ https://github.com/facebook/rebound
 
 >FlowLayout 流式布局 https://github.com/ApmeM/android-flowlayout  
 >CircleLayout 圆圈布局  https://github.com/francoiscampbell/CircleLayout  
+
+九、我开发的类库  
+1：ZFUpdateDate  软件更新  
+https://git.oschina.net/tmxdyf/ZFSoftUpdate.git  
+2:ZFApi  联网封装  
+https://git.oschina.net/tmxdyf/ZFSoftUpdate.git  
