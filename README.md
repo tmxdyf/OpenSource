@@ -153,4 +153,4 @@ https://realm.io/cn/
 1：ZFUpdateDate  软件更新  
 https://git.oschina.net/tmxdyf/ZFSoftUpdate.git  
 2:ZFApi  联网封装  
-https://git.oschina.net/tmxdyf/ZFSoftUpdate.git  
+https://github.com/tmxdyf/ZFApi
