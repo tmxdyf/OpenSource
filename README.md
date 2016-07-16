@@ -128,6 +128,20 @@ https://github.com/facebook/rebound
 1：realm  
 https://realm.io/cn/  
 
+#工具收集
+一、RecyclerView下拉刷新与加载更多  
+1：SwipeToLoadLayout  
+https://github.com/Aspsine/SwipeToLoadLayout  
+2：UltimateRecyclerView    
+https://github.com/cymcsg/UltimateRecyclerView  
+3：IRecyclerView  
+https://github.com/Aspsine/IRecyclerView  
+4：PullLoadMoreRecyclerView    
+https://github.com/WuXiaolong/PullLoadMoreRecyclerView    
+5：HeaderAndFooterRecyclerView  
+https://github.com/cundong/HeaderAndFooterRecyclerView  
+
+
 #布局汇总  
 
 >Android官方布局
