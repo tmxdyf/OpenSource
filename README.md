@@ -28,7 +28,8 @@ https://github.com/inferjay/AndroidDevTools
 https://github.com/Freelander/Android_Data    
 12：it-ebooks-archive(计算机开放电子书汇总)  
 https://github.com/it-ebooks/it-ebooks-archive
-
+13：Awesome Android Complete Reference
+https://github.com/amitshekhariitbhu/awesome-android-complete-reference
 
 
 
