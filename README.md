@@ -66,7 +66,16 @@ http://git.oschina.net/handoop/FlowGeek
 16：就看天气  
 https://github.com/xcc3641/SeeWeather    
 17：muzei  
-https://github.com/romannurik/muzei
+https://github.com/romannurik/muzei  
+18：ribot-app-android  
+https://github.com/ribot/ribot-app-android  
+
+##即时通讯APP
+1：wire  
+https://github.com/wireapp/wire-android  
+2：Telegram    
+https://github.com/DrKLO/Telegram  
+
   
   
 #优秀Demo收集  
