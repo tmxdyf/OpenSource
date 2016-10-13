@@ -71,9 +71,9 @@ https://github.com/romannurik/muzei
 https://github.com/ribot/ribot-app-android  
 
 ####即时通讯APP
-1：wire    
+1：wire   
 https://github.com/wireapp/wire-android  
-2：Telegram      
+2：Telegram  
 https://github.com/DrKLO/Telegram  
 
   
