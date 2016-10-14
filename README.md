@@ -87,6 +87,11 @@ https://github.com/r3gis3r/CSipSimple
 https://github.com/BelledonneCommunications/linphone  
 5、WebRTC  
 https://webrtc.org  
+6、sip2peer  
+https://code.google.com/archive/p/sip2peer/  
+http://dsg.ce.unipr.it/?q=node/41  
+https://github.com/dsg-unipr/sip2peer  
+
 
 
 
