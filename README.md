@@ -251,10 +251,10 @@ https://github.com/tmxdyf/ZFApi
 2：[ReactNative_Shopping](https://github.com/JasonStu/ReactNative_Shopping)  
 ![](https://github.com/JasonStu/ReactNative_Shopping/raw/master/screenshot/1.png)
 
-## 设计资源
-1：[react-native-elements](https://github.com/react-native-community/react-native-elements)  
+### Icon资源
+1：[react-native-elements](https://github.com/react-native-community/react-native-elements)  十分强大
 
-## 自动化运维  
+## 自动化运维  
 1：ansible   
 https://github.com/ansible/ansible/  
 
