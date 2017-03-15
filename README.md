@@ -1,5 +1,5 @@
 # 开放资源收集
-<b>优秀资源网站</b>    
+### 优秀资源网站    
    
    
 0：我的github博客  
@@ -33,7 +33,8 @@ https://github.com/amitshekhariitbhu/awesome-android-complete-reference
 
 
 
-#开源APP收集
+###开源APP收集
+
 
 1：AppPlus  
 https://github.com/maoruibin/AppPlus  
@@ -70,13 +71,13 @@ https://github.com/romannurik/muzei
 18：ribot-app-android  
 https://github.com/ribot/ribot-app-android  
 
-####即时通讯APP
+### 即时通讯APP
 1：wire   
 https://github.com/wireapp/wire-android  
 2：Telegram  
 https://github.com/DrKLO/Telegram  
 
-####VOIP视频传输
+### VOIP视频传输
 1、sipdroid  
 https://github.com/i-p-tel/sipdroid  
 2、imsdroid  
@@ -93,19 +94,16 @@ http://dsg.ce.unipr.it/?q=node/41
 https://github.com/dsg-unipr/sip2peer  
 
 
-
-
-  
-#优秀Demo收集  
+### 优秀Demo收集  
    
    
 1：android-support-23.2-sample  
 https://github.com/liaohuqiu/android-support-23.2-sample  
 
 
-#框架收集 
+### Android 框架收集 
 
-一、联网框架  
+#### 一、联网框架  
 1：android-async-http  
 https://github.com/loopj/android-async-http  
 2：http-request    
@@ -119,7 +117,7 @@ https://github.com/square/okhttp
 6：volley  
 https://android.googlesource.com/platform/frameworks/volley
   
-二、图片加载框架  
+#### 二、图片加载框架  
 1：fresco  
 https://github.com/facebook/fresco  
 2：glide  
@@ -129,77 +127,82 @@ http://square.github.io/picasso/
 4：Android-Universal-Image-Loader  
 https://github.com/nostra13/Android-Universal-Image-Loader  
 
-三、响应式框架  
+#### 三、响应式框架  
 1：RxJAVA  
 https://github.com/ReactiveX/RxJava  
+
 2：Agera  
 https://github.com/google/agera  
 
-四、注解框架  
+#### 四、注解框架  
 1：dagger2  
 http://google.github.io/dagger/  
 
-五、缓存框架  
+#### 五、缓存框架  
 1：https://github.com/yangfuhai/ASimpleCache  
 
 
-六、调试框架  
+#### 六、调试框架  
 1：stetho  
 https://github.com/facebook/stetho  
 
 
-七、动画框架  
+#### 七、动画框架  
 1：rebound    
 https://github.com/facebook/rebound  
 
-八、数据库  
+#### 八、数据库  
 1：realm  
 https://realm.io/cn/  
 
-#工具收集
+### 工具收集
 一、RecyclerView下拉刷新与加载更多  
 1：SwipeToLoadLayout  
 https://github.com/Aspsine/SwipeToLoadLayout  
+
 2：UltimateRecyclerView    
 https://github.com/cymcsg/UltimateRecyclerView  
+
 3：IRecyclerView  
 https://github.com/Aspsine/IRecyclerView  
+
 4：PullLoadMoreRecyclerView    
 https://github.com/WuXiaolong/PullLoadMoreRecyclerView    
+
 5：HeaderAndFooterRecyclerView  
 https://github.com/cundong/HeaderAndFooterRecyclerView  
+
 6：android-PullRefreshLayout    
 https://github.com/baoyongzhang/android-PullRefreshLayout   
 
 
-#布局汇总  
+###布局汇总  
 
->Android官方布局
++ Android官方布局
+ + LinearLayout 线性布局  
+ + FrameLayout 帧布局  
+ + RelativeLayout 相对布局  
+ + TableLayout 表格布局  
+ + AbsoluteLayout 绝对布局(过时)  
+ + GridLayout 网格布局  
+ + CoordinatorLayout 协调布局  
+ + PercentRelativeLayout 百分比相对布局  
+ + PercentFrameLayout 百分比帧布局  
+ + ConstraintLayout 约束布局  
+ + [FlexboxLayout 弹性盒子布局](https://github.com/google/flexbox-layout)
 
->LinearLayout 线性布局  
->FrameLayout 帧布局  
->RelativeLayout 相对布局  
->TableLayout 表格布局  
->AbsoluteLayout 绝对布局(过时)  
->GridLayout 网格布局  
->CoordinatorLayout 协调布局  
->PercentRelativeLayout 百分比相对布局  
->PercentFrameLayout 百分比帧布局  
->ConstraintLayout 约束布局  
->FlexboxLayout 弹性盒子布局 https://github.com/google/flexbox-layout  
++ 第三方布局
+ + [FlowLayout 流式布局](https://github.com/ApmeM/android-flowlayout)
+ + [CircleLayout 圆圈布局](https://github.com/francoiscampbell/CircleLayout)
 
->第三方布局
-
->FlowLayout 流式布局 https://github.com/ApmeM/android-flowlayout  
->CircleLayout 圆圈布局  https://github.com/francoiscampbell/CircleLayout  
-
-#我开发的类库  
+### 我开发的类库  
 1：ZFUpdateDate  软件更新  
 https://git.oschina.net/tmxdyf/ZFSoftUpdate.git  
+
 2:ZFApi  联网封装  
 https://github.com/tmxdyf/ZFApi
 
 
-#自动化运维  
+### 自动化运维  
 1：ansible   
 https://github.com/ansible/ansible/  
