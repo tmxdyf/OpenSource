@@ -43,9 +43,7 @@ https://github.com/it-ebooks/it-ebooks-archive
 13：Awesome Android Complete Reference  
 https://github.com/amitshekhariitbhu/awesome-android-complete-reference  
 
-
-
-###开源APP收集
+### 开源APP收集
 
 1：AppPlus  
 https://github.com/maoruibin/AppPlus  
