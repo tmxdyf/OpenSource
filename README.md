@@ -247,7 +247,7 @@ https://github.com/tmxdyf/ZFApi
 
 ### 开源React-Native APP
 1：[GitHubPopular](https://github.com/crazycodeboy/GitHubPopular)  
-![](https://raw.githubusercontent.com/crazycodeboy/GitHubPopular/master/resource/screenshot/GitHubPopular-1.jpg  =200x300)
+![](https://raw.githubusercontent.com/crazycodeboy/GitHubPopular/master/resource/screenshot/GitHubPopular-1.jpg)
 
 ## 设计资源
 1：[react-native-elements](https://github.com/react-native-community/react-native-elements)  
