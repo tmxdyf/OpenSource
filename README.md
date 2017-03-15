@@ -106,24 +106,32 @@ https://github.com/liaohuqiu/android-support-23.2-sample
 #### 一、联网框架  
 1：android-async-http  
 https://github.com/loopj/android-async-http  
+
 2：http-request    
-https://github.com/kevinsawicki/http-request
+https://github.com/kevinsawicki/http-request  
+
 3：retrofit  
 https://github.com/square/retrofit  
+
 4：Netroid  
 https://github.com/vince-styling/Netroid  
+
 5：okhttp  
 https://github.com/square/okhttp  
+
 6：volley  
 https://android.googlesource.com/platform/frameworks/volley
   
 #### 二、图片加载框架  
 1：fresco  
 https://github.com/facebook/fresco  
+
 2：glide  
 https://github.com/bumptech/glide  
+
 3：picasso  
 http://square.github.io/picasso/  
+
 4：Android-Universal-Image-Loader  
 https://github.com/nostra13/Android-Universal-Image-Loader  
 
@@ -156,7 +164,8 @@ https://github.com/facebook/rebound
 https://realm.io/cn/  
 
 ### 工具收集
-一、RecyclerView下拉刷新与加载更多  
+#### 一、RecyclerView下拉刷新与加载更多  
+
 1：SwipeToLoadLayout  
 https://github.com/Aspsine/SwipeToLoadLayout  
 
@@ -179,7 +188,7 @@ https://github.com/baoyongzhang/android-PullRefreshLayout
 ###布局汇总  
 
 + Android官方布局
- + LinearLayout 线性布局  
+   + LinearLayout 线性布局  
  + FrameLayout 帧布局  
  + RelativeLayout 相对布局  
  + TableLayout 表格布局  
