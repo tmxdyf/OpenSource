@@ -1,93 +1,126 @@
 # 开放资源收集
 ### 优秀资源网站    
    
-   
 0：我的github博客  
 http://tmxdyf.github.io/  
+
 1：android-open-project  
 https://github.com/Trinea/android-open-project  
+
 2：一个定期翻译国外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目  
 https://github.com/bboyfeiyu/android-tech-frontier  
+
 3：androidweekly(国外)  
 http://androidweekly.net/  
+
 4：androidweekly(国内)  
 http://www.androidweekly.cn/  
+
 5：saulmm(个人博客)  
 http://saulmm.github.io/  
+
 6：google  
 https://github.com/google  
+
 7：googlesamples  
 https://github.com/googlesamples  
+
 8：square  
 https://github.com/square  
+
 9：awesome-android  
 https://github.com/snowdream/awesome-android  
+
 10：AndroidDevTools    
 https://github.com/inferjay/AndroidDevTools  
+
 11：Android_Data  
 https://github.com/Freelander/Android_Data    
+
 12：it-ebooks-archive(计算机开放电子书汇总)  
 https://github.com/it-ebooks/it-ebooks-archive    
-13：Awesome Android Complete Reference
-https://github.com/amitshekhariitbhu/awesome-android-complete-reference
+
+13：Awesome Android Complete Reference  
+https://github.com/amitshekhariitbhu/awesome-android-complete-reference  
 
 
 
 ###开源APP收集
 
-
 1：AppPlus  
 https://github.com/maoruibin/AppPlus  
+
 2：知乎日报  
 https://github.com/izzyleung/ZhihuDailyPurify  
+
 3：妹纸  
 https://github.com/drakeet/Meizhi  
+
 4：MIUI录音机社区开源版  
 https://github.com/MiCode/SoundRecorder  
+
 5：MIUI指南针社区开源版  
 https://github.com/MiCode/Compass  
+
 6：小米便签社区开源版  
 https://github.com/MiCode/Notes  
+
 7：MIUI文件管理器社区开源版  
 https://github.com/MiCode/FileExplorer  
+
 8：github-android  
 https://github.com/geniusgithub/github-android  
+
 9：JamsMusicPlayer  
 https://github.com/psaravan/JamsMusicPlayer  
+
 10：android-eye  
 https://github.com/Teaonly/android-eye  
+
 11：avplayer  
 https://github.com/Jackarain/avplayer  
+
 13：kickmaterial  
 https://github.com/byoutline/kickmaterial  
+
 14：豆芽  
 https://github.com/DreaminginCodeZH/Douya   
+
 15：开源中国Android客户端MVP架构Material Design设计风格版   
 http://git.oschina.net/handoop/FlowGeek  
+
 16：就看天气  
 https://github.com/xcc3641/SeeWeather    
+
 17：muzei  
 https://github.com/romannurik/muzei  
+
 18：ribot-app-android  
 https://github.com/ribot/ribot-app-android  
 
 ### 即时通讯APP
 1：wire   
 https://github.com/wireapp/wire-android  
+
 2：Telegram  
 https://github.com/DrKLO/Telegram  
 
 ### VOIP视频传输
 1、sipdroid  
 https://github.com/i-p-tel/sipdroid  
+
 2、imsdroid  
 https://github.com/DoubangoTelecom/imsdroid  
+
 3、csipsimple  
 https://github.com/r3gis3r/CSipSimple  
+
 4、linphone  
 https://github.com/BelledonneCommunications/linphone  
+
 5、WebRTC  
 https://webrtc.org  
+
 6、sip2peer  
 https://code.google.com/archive/p/sip2peer/  
 http://dsg.ce.unipr.it/?q=node/41  
@@ -189,20 +222,20 @@ https://github.com/baoyongzhang/android-PullRefreshLayout
 
 + Android官方布局
    + LinearLayout 线性布局  
- + FrameLayout 帧布局  
- + RelativeLayout 相对布局  
- + TableLayout 表格布局  
- + AbsoluteLayout 绝对布局(过时)  
- + GridLayout 网格布局  
- + CoordinatorLayout 协调布局  
- + PercentRelativeLayout 百分比相对布局  
- + PercentFrameLayout 百分比帧布局  
- + ConstraintLayout 约束布局  
- + [FlexboxLayout 弹性盒子布局](https://github.com/google/flexbox-layout)
+   + FrameLayout 帧布局  
+   + RelativeLayout 相对布局  
+   + TableLayout 表格布局  
+   + AbsoluteLayout 绝对布局(过时)  
+   + GridLayout 网格布局  
+   + CoordinatorLayout 协调布局  
+   + PercentRelativeLayout 百分比相对布局  
+   + PercentFrameLayout 百分比帧布局  
+   + ConstraintLayout 约束布局  
+   + [FlexboxLayout 弹性盒子布局](https://github.com/google/flexbox-layout)
 
 + 第三方布局
- + [FlowLayout 流式布局](https://github.com/ApmeM/android-flowlayout)
- + [CircleLayout 圆圈布局](https://github.com/francoiscampbell/CircleLayout)
+   + [FlowLayout 流式布局](https://github.com/ApmeM/android-flowlayout)
+   + [CircleLayout 圆圈布局](https://github.com/francoiscampbell/CircleLayout)
 
 ### 我开发的类库  
 1：ZFUpdateDate  软件更新  
@@ -210,7 +243,6 @@ https://git.oschina.net/tmxdyf/ZFSoftUpdate.git
 
 2:ZFApi  联网封装  
 https://github.com/tmxdyf/ZFApi
-
 
 ### 自动化运维  
 1：ansible   
