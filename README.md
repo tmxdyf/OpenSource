@@ -105,6 +105,9 @@ https://github.com/wireapp/wire-android
 2：Telegram  
 https://github.com/DrKLO/Telegram  
 
+3：MongooseIM  
+https://github.com/esl/MongooseIM
+
 ### VOIP视频传输
 1、sipdroid  
 https://github.com/i-p-tel/sipdroid  
