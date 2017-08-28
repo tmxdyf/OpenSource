@@ -257,6 +257,11 @@ https://github.com/tmxdyf/ZFApi
 ### Icon资源
 1：[react-native-elements](https://github.com/react-native-community/react-native-elements)  十分强大
 
+## IOS
+1. [资源整合 awesome-ios](https://github.com/vsouza/awesome-ios)
+
+
+
 ## 自动化运维  
 1：ansible   
 https://github.com/ansible/ansible/  
